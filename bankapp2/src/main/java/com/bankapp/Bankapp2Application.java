@@ -37,9 +37,9 @@ public class Bankapp2Application implements CommandLineRunner {
 
 		/*
 		 * Account account = new Account("ani", 1000, "saving", "AP", "CTR",
-		 * "9876543210", "ani@gmail.com", LocalDate.of(2020, Month.APRIL, 26)); Account
+		 * "9876543210", "allu@gmail.com", LocalDate.of(2020, Month.APRIL, 26)); Account
 		 * account1 = new Account("ram", 1000, "saving", "TN", "Chennai", "9876543223",
-		 * "ani.reddy@gmail.com", LocalDate.of(2021, Month.JANUARY, 22));
+		 * "allu@gmail.com", LocalDate.of(2021, Month.JANUARY, 22));
 		 * accountService.Save(account); accountService.Save(account1);
 		 * 
 		 * accountService.transfer(1, 2, 50);
